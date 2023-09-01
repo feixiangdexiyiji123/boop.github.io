@@ -37,9 +37,13 @@
 2.请在>后面加上空格（兼容性）。  
 3.多个段落时在两段之间加一个空白行，在空白行最前面加一个>。  
 4.嵌套，在需要嵌套的句子前面加>>。  
+5.部分其他元素可以引用。  
 例如：\> aaaaaaaa  
 > aaaaaaaa
 >
 &emsp;&emsp;&emsp;\>> aaaaaaaa
 > aaaaaaaa
 >> aaaaaaaa
+>
+&emsp;&emsp;&emsp;\> - aaaaaaaa
+> - aaaaaaaa
