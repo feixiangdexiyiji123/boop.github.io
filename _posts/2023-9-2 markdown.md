@@ -43,4 +43,8 @@ ___
  7.引用类型链接不懂，以后补充。  
  ### 图片  
  1.固定图片格式：`![图片alt](图片链接 "图片title")`。  
- 例如： ![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+ 例如：`![这是图片](https://csdnimg.cn/cdn/content-toolbar/csdn-logo_.png?v=20190924.1 "CSDN")`    
+ ![这是图片](https://csdnimg.cn/cdn/content-toolbar/csdn-logo_.png?v=20190924.1 "CSDN")
+
+ 2.相关方法见：[Markdown插入图片，详细例子](https://blog.csdn.net/xapxxf/article/details/105133999)。  
+ 
