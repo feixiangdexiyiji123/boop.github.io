@@ -20,16 +20,16 @@ ___
 
 ### 链接
 1.固定链接格式：【超链接显示名】（超链接地址 "超链接title"）。  
-例如：这是一个链接 \[Markdown语法](`https://markdown.com.cn`)。  
+例如： 这是一个链接 \[Markdown语法](`https://markdown.com.cn`)。  
 表现为： [Markdown语法](https://markdown.com.cn)  
 
-2.给链接增加标题，即当鼠标悬停在链接上时显示的文字。
+2.给链接增加标题，即当鼠标悬停在链接上时显示的文字。  
 例如：这是一个链接 \[Markdown语法](`https://markdown.com.cn` "最好的markdown教程")。  
 表现为： [Markdown语法](https://markdown.com.cn "最好的markdown教程")
 记得添加空格。  
 
 3.使用尖括号。  
-例如：<`https://markdown.com.cn`>  
+例如： <`https://markdown.com.cn`>  
 <`1143010644@qq.com`>  
  表现为：<https://markdown.com.cn>  
  <1143010644@qq.com>  
@@ -42,4 +42,5 @@ ___
  6.当链接中带有空格时，使用%20代替。  
  7.引用类型链接不懂，以后补充。  
  ### 图片  
- 1.
+ 1.固定图片格式：`![图片alt](图片链接 "图片title")`。  
+ 例如： ![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
