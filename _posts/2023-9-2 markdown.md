@@ -47,4 +47,8 @@ ___
  ![这是图片](https://csdnimg.cn/cdn/content-toolbar/csdn-logo_.png?v=20190924.1 "CSDN")
 
  2.相关方法见：[Markdown插入图片，详细例子](https://blog.csdn.net/xapxxf/article/details/105133999)。  
+ 3.给图片添加链接：`[![沙漠中的岩石图片](/assets/img/shiprock.jpg "Shiprock")](https://markdown.com.cn)`  
+ 4.不知道为什么1的例子中的图片已经添加链接了。  
+ ### 转义字符  
+ 1.利用反斜杠（\）来使加粗、斜体、分隔线、引用、列表等失效，表现出原来的字符。  
  
